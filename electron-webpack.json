@@ -1,0 +1,12 @@
+{
+    "title":"Electron Webpack Aplication",
+    "main":{
+        "sourceDirectory":"app/main"
+    },
+    "renderer":{
+        "sourceDirectory":"app/renderer",
+        "template":"app/renderer/index.html"
+    },
+    "commonSourceDirectory":"app/common",
+    "staticSourceDirectory":"app/static"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A react-webpack boiler plate",
+  "author": "Otto Gutierrez",
+  "scripts": {
+    "start": "electron-webpack dev",
+    "build": "electron-webpack"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "electron": "11.1.1",
+    "electron-builder": "^22.9.1",
+    "electron-webpack": "^2.8.2",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1",
+    "webpack": "4.42.1"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "source-map-support": "0.5.19"
+  }
+}
