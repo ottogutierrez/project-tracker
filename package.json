@@ -1,9 +1,9 @@
 {
-  "name": "react-webpack-boilerplate",
+  "name": "project-tracker",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "A react-webpack boiler plate",
+  "description": "A Project Tracker application",
   "author": "Otto Gutierrez",
   "scripts": {
     "start": "electron-webpack dev",

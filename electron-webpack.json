@@ -1,5 +1,5 @@
 {
-    "title":"Electron Webpack Aplication",
+    "title":"Project Tracker Application",
     "main":{
         "sourceDirectory":"app/main"
     },
